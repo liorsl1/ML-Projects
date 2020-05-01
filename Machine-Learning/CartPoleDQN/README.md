@@ -13,5 +13,5 @@ will stop only after achieving mean score of 195 ticks.)
 
 A video of the model training towards the mid-end of the training period(uploaded by me):
 <a href="https://www.youtube.com/watch?v=d2ll4P5V14A
-" target="_blank"><img src="https://www.youtube.com/watch?v=d2ll4P5V14A" 
+" target="_blank"><img src="https://i9.ytimg.com/vi/d2ll4P5V14A/mqdefault.jpg?time=1588324400265&sqp=COjOr_UF&rs=AOn4CLAIK_ZICeExh7xh6HyTT3G5WB6r7Q" 
 alt="CartPole-v1" width="240" height="180" border="10" /></a>
