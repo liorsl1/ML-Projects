@@ -1,8 +1,10 @@
+<html>
 <style>
 i{
  text-decoration: underline;
 }
  </style>
+ </html>
 This project is my first experience with Reinforcement Learning , specifically Deep Q Learning Network (DQN).
 
 The enviroment used here is the CartPole-v1 from openAI gym: https://gym.openai.com/envs/CartPole-v1/
