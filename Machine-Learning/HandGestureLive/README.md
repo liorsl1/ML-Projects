@@ -1,7 +1,7 @@
 ### A Computer Vision project, implemented to practice new knowledge i have aquired in the field.
 ### Skills and Methods i have applied in this project:
 ### CNNs, Residual Networks, Transfer Learning, Data Augmentation, Video Capturing and Proccessing with OpenCV.
-##### (The ResNet50 Model is a part of an assignment from deeplearning.ai course on coursera)
+##### (The original ResNet50 Model was a part of an assignment from deeplearning.ai course on coursera, i used it as my baseline to save time and computation)
 ##### Demonstration 0-2
 ![Demonstration for 0-2](https://j.gifs.com/P7o3wy.gif)
 
