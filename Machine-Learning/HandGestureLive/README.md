@@ -1,13 +1,13 @@
-###A Computer Vision project, implemented as a final project to asses new knowledge i have aquired in the field.
-###Skills and Methods i have applied in this project:
-###CNN's, Residual Networks, Transfer Learning, Data Augmentation, Video Capturing and Proccessing with OpenCV.
+### A Computer Vision project, implemented as a final project to asses new knowledge i have aquired in the field.
+### Skills and Methods i have applied in this project:
+### CNN's, Residual Networks, Transfer Learning, Data Augmentation, Video Capturing and Proccessing with OpenCV.
 ##### Demonstration 0-2
 ![Demonstration for 0-2](https://j.gifs.com/P7o3wy.gif)
 ##### Demonstration 0-2 (more variations)
 <img src=https://j.gifs.com/GvO3jK.gif width="350" height="450"/>
-#####Demonstration 1-5
+##### Demonstration 1-5
 <img src=https://j.gifs.com/p8vyMQ.gif width="450" height="300"/>
-#####Demonstration 5-1
+##### Demonstration 5-1
 <img src=https://j.gifs.com/oVrxLX.gif width="450" height="300"/>
-#####How the SIGNS dataset looks like :
+##### How the SIGNS dataset looks like :
 <img src=https://miro.medium.com/max/2030/1*QrEcumVTnMsFOVwZUtKsPg.jpeg />
