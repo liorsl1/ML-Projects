@@ -1,4 +1,4 @@
-### A Computer Vision project, implemented as a final project to asses new knowledge i have aquired in the field.
+### A Computer Vision project, implemented to practice new knowledge i have aquired in the field.
 ### Skills and Methods i have applied in this project:
 ### CNN's, Residual Networks, Transfer Learning, Data Augmentation, Video Capturing and Proccessing with OpenCV.
 ##### Demonstration 0-2
