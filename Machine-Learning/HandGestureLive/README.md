@@ -3,6 +3,7 @@
 ### CNN's, Residual Networks, Transfer Learning, Data Augmentation, Video Capturing and Proccessing with OpenCV.
 ##### Demonstration 0-2
 ![Demonstration for 0-2](https://j.gifs.com/P7o3wy.gif)
+
 ##### Demonstration 0-2 (more variations)
 <img src=https://j.gifs.com/GvO3jK.gif width="350" height="450"/>
 
