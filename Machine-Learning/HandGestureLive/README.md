@@ -1,6 +1,6 @@
 ### A Computer Vision project, implemented to practice new knowledge i have aquired in the field.
 ### Skills and Methods i have applied in this project:
-### CNN's, Residual Networks, Transfer Learning, Data Augmentation, Video Capturing and Proccessing with OpenCV.
+### CNNs, Residual Networks, Transfer Learning, Data Augmentation, Video Capturing and Proccessing with OpenCV.
 ##### Demonstration 0-2
 ![Demonstration for 0-2](https://j.gifs.com/P7o3wy.gif)
 
