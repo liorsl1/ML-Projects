@@ -14,5 +14,5 @@ will stop only after achieving mean score of 195 ticks.)
 A video of the model training towards the mid-end of the training period(uploaded by me):
 
 ##### Around ~30 cycles before the end of the training period.
-<img src=https://j.gifs.com/VAxXxM.gif width="350" height="450"/>
-alt="CartPole-v1" width="240" height="180" border="10" /></a>
+<img src=https://j.gifs.com/VAxXxM.gif width="400" height="400"/>
+
