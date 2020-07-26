@@ -15,4 +15,6 @@ A video of the model training towards the mid-end of the training period(uploade
 
 ##### Around ~30 cycles before the end of the training period.
 <img src=https://j.gifs.com/VAxXxM.gif width="400" height="400"/>
+##### Around ~5 cycles before the end of the training period. (Very stable at that state)
+<img src=https://j.gifs.com/WLyYNJ.gif width="400" height="400"/>
 
