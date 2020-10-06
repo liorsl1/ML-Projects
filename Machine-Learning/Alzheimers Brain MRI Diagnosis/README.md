@@ -8,5 +8,5 @@ and curves, right from the start so it shortens the learning phase), and extra f
 
 ### Dataset used : 
 https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images
-### Notes:
+#### Notes:
 with a bit more time with this project, im sure i could reach higher accuracy and results. maybe will try to attempt a similar project soon.
